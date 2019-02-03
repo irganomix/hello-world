@@ -3,4 +3,4 @@ Just another repository
 
 Sup dog
 
-I'm only here becuase I have to be
+I'm only here because I have to be
